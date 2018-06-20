@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name = 'KCBaseLibrary'
-  s.version = '1.0.0'
+  s.version = '1.0.1'
   s.platform = :ios, '8.0'
   s.license = 'MIT'
   s.summary = 'Something Blah Blah'
   s.homepage = 'https://github.com/wkrelease/KCBaseLibrary'
   s.author = { 'cocoakc' => '18501987683@163.com' }
-  s.source = { :git => 'https://github.com/wkrelease/KCBaseLibrary.git', :tag => '1.0.0' }
+  s.source = { :git => 'https://github.com/wkrelease/KCBaseLibrary.git', :tag => '1.0.1' }
 
   s.source_files = "KCBaseLibrary/**/*.{h,m}"
 
