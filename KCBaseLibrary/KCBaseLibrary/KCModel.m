@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  KCModel.m
 //  KCBaseLibrary
 //
 //  Created by king on 2018/6/20.
 //  Copyright © 2018年 KC. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "KCModel.h"
 
-@interface ViewController : UIViewController
-
+@implementation KCModel
 
 @end
-
